@@ -1,0 +1,10 @@
+.ulStyle {
+    background-color: #888;
+    padding: 10px;
+}
+
+.liStyle {
+    color: orange;
+    font-family: Helvetica;
+    font-size: 1.5rem;
+}

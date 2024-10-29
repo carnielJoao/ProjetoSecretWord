@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": "5feb",
+      "name": "Cadeira",
+      "price": "56.90"
+    },
+    {
+      "id": "3711",
+      "name": "mesa",
+      "price": "22"
+    },
+    {
+      "id": "d754",
+      "name": "Mouse ",
+      "price": "3232"
+    },
+    {
+      "id": "a822",
+      "name": "Teste",
+      "price": "22"
+    },
+    {
+      "id": "59f5",
+      "name": "joao",
+      "price": "32"
+    }
+  ]
+}
